@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  margin: 15rem;
+  background-color: rgba(0, 152, 255, 0.7);
+  font-size: 1.2rem;
+}
+h2{
+    text-transform: uppercase;
+}
+button{
+    padding: .8rem 5rem;
+    background-color: #7d39a0;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
